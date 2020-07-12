@@ -1,0 +1,32 @@
+table{
+    width: 80vw;
+    margin-left: 5vw;
+    height: 50vh;
+}
+
+tbody{
+    height: 80vh;
+}
+
+th{
+    height: 10vh;
+    text-align: start;
+    font-size: 2rem;
+}
+
+td{
+    text-align: center;
+    font-size: 2rem;
+    width: 10%;
+}
+
+input{
+    width: 50%;
+    margin-left: 5%;
+    height: 90%;
+}
+
+/* span{
+    border: 1px solid black;
+    width: 40%;
+} */
